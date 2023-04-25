@@ -1,2 +1,2 @@
-# Programiranje-web-korisni-kog-su-elja
+# Programiranje-web-korisnickog-sucelja
 Seminar na fakultetu
